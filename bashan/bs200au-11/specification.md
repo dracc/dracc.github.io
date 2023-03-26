@@ -19,6 +19,7 @@
 |Tire pressure (front/rear)| 6.5±0.4 psi / 6.5±0.4 psi|
 |Fuel tank capacity|6.6 L|
 |Seat height|800 mm|
+
 ## Engine Specification
 
 | (Projects / Units) | (Parameter Values) |
