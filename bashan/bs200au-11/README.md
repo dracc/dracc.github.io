@@ -1,0 +1,7 @@
+1. [Safety](safety.md)
+2. [Control](control.md)
+3. [Operate](operate.md)
+4. [Feature](feature.md)
+5. [Trouble Shooting](ts.md)
+6. [Specification](specification.md)
+7. [Parts List](pl.md)
