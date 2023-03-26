@@ -5,4 +5,4 @@
 ## Brake Lever
 ## Fuel Valve and Fuel Filter
 ## Engine Gear Selection
-## Nstrument Cluster
+## Instrument Cluster
